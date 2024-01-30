@@ -1,0 +1,7 @@
+I:\Sasha\3 курс\2 семестр\Системне програмування\Lab01\Program1\bin\Debug\Program1.exe.config
+I:\Sasha\3 курс\2 семестр\Системне програмування\Lab01\Program1\bin\Debug\Program1.exe
+I:\Sasha\3 курс\2 семестр\Системне програмування\Lab01\Program1\bin\Debug\Program1.pdb
+I:\Sasha\3 курс\2 семестр\Системне програмування\Lab01\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+I:\Sasha\3 курс\2 семестр\Системне програмування\Lab01\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+I:\Sasha\3 курс\2 семестр\Системне програмування\Lab01\Program1\obj\Debug\Program1.exe
+I:\Sasha\3 курс\2 семестр\Системне програмування\Lab01\Program1\obj\Debug\Program1.pdb

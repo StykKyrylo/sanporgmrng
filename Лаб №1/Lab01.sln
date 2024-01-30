@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program2", "Program2\Program2.csproj", "{6411408E-DF31-48D0-B9A4-B77065B4A3BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program3", "Program3\Program3.csproj", "{56DB8573-F38A-454F-BB26-C216D5C71364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program1", "Program1\Program1.csproj", "{0C906CEE-9A49-4F8B-9B3D-E52BC173D6ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6411408E-DF31-48D0-B9A4-B77065B4A3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6411408E-DF31-48D0-B9A4-B77065B4A3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6411408E-DF31-48D0-B9A4-B77065B4A3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6411408E-DF31-48D0-B9A4-B77065B4A3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56DB8573-F38A-454F-BB26-C216D5C71364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DB8573-F38A-454F-BB26-C216D5C71364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DB8573-F38A-454F-BB26-C216D5C71364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DB8573-F38A-454F-BB26-C216D5C71364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C906CEE-9A49-4F8B-9B3D-E52BC173D6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C906CEE-9A49-4F8B-9B3D-E52BC173D6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C906CEE-9A49-4F8B-9B3D-E52BC173D6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C906CEE-9A49-4F8B-9B3D-E52BC173D6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D042AB96-7FA0-4C30-BBC8-EA8905BFFEDC}
+	EndGlobalSection
+EndGlobal

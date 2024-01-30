@@ -1,0 +1,20 @@
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №3\DiskInfo\DiskInfo\bin\Debug\DiskInfo.exe.config
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №3\DiskInfo\DiskInfo\bin\Debug\DiskInfo.exe
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №3\DiskInfo\DiskInfo\bin\Debug\DiskInfo.pdb
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.csprojAssemblyReference.cache
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.Form1.resources
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.Properties.Resources.resources
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.csproj.GenerateResource.cache
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.csproj.CoreCompileInputs.cache
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.exe
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.pdb
+D:\Лабы\Системне та мережне програмування\Лаб №3\DiskInfo\DiskInfo\bin\Debug\DiskInfo.exe.config
+D:\Лабы\Системне та мережне програмування\Лаб №3\DiskInfo\DiskInfo\bin\Debug\DiskInfo.exe
+D:\Лабы\Системне та мережне програмування\Лаб №3\DiskInfo\DiskInfo\bin\Debug\DiskInfo.pdb
+D:\Лабы\Системне та мережне програмування\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.csproj.AssemblyReference.cache
+D:\Лабы\Системне та мережне програмування\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.Form1.resources
+D:\Лабы\Системне та мережне програмування\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.Properties.Resources.resources
+D:\Лабы\Системне та мережне програмування\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.csproj.GenerateResource.cache
+D:\Лабы\Системне та мережне програмування\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.csproj.CoreCompileInputs.cache
+D:\Лабы\Системне та мережне програмування\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.exe
+D:\Лабы\Системне та мережне програмування\Лаб №3\DiskInfo\DiskInfo\obj\Debug\DiskInfo.pdb
