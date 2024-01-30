@@ -1,0 +1,20 @@
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №4\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №4\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Університет\3 курс\Системне та мережне програмування\Лабораторні роботи\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\Лабы\Системне та мережне програмування\Лаб №4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Лабы\Системне та мережне програмування\Лаб №4\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Лабы\Системне та мережне програмування\Лаб №4\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Лабы\Системне та мережне програмування\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\Лабы\Системне та мережне програмування\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\Лабы\Системне та мережне програмування\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Лабы\Системне та мережне програмування\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\Лабы\Системне та мережне програмування\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Лабы\Системне та мережне програмування\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Лабы\Системне та мережне програмування\Лаб №4\Lab4\Lab4\obj\Debug\Lab4.pdb
