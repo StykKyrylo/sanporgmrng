@@ -1,0 +1,49 @@
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\DLLView.dll
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\DLLView.pdb
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\DLLView.dll
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\DLLView.pdb
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\DLLView.dll
+C:\Users\User\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\DLLView.pdb
+C:\Users\User\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\DLLView.dll
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\DLLView.pdb
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\DLLView.dll
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\ConsoleApp1\bin\Debug\DLLView.pdb
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

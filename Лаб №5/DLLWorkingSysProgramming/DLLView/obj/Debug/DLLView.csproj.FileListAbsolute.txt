@@ -1,0 +1,28 @@
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\DLLView\bin\Debug\DLLView.dll
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\DLLView\bin\Debug\DLLView.pdb
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.csproj.CoreCompileInputs.cache
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.dll
+C:\Users\Dethrider\source\repos\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.pdb
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\DLLView\bin\Debug\DLLView.dll
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\DLLView\bin\Debug\DLLView.pdb
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.csproj.CoreCompileInputs.cache
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.dll
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.pdb
+C:\Users\Neznayka\Desktop\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DLLWorkingSysProgramming\DLLView\bin\Debug\DLLView.dll
+C:\Users\User\Desktop\DLLWorkingSysProgramming\DLLView\bin\Debug\DLLView.pdb
+C:\Users\User\Desktop\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.dll
+C:\Users\User\Desktop\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.pdb
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\DLLView\bin\Debug\DLLView.dll
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\DLLView\bin\Debug\DLLView.pdb
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.csprojAssemblyReference.cache
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.csproj.CoreCompileInputs.cache
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.dll
+C:\Users\YULIA\Desktop\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.pdb
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\DLLView\bin\Debug\DLLView.dll
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\DLLView\bin\Debug\DLLView.pdb
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.csproj.AssemblyReference.cache
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.csproj.CoreCompileInputs.cache
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.dll
+D:\Лабы\Системне та мережне програмування\Лаб №5\DLLWorkingSysProgramming\DLLView\obj\Debug\DLLView.pdb
